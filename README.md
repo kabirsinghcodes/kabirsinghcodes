@@ -53,10 +53,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rubleen16"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rubleen16" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsingh04&show_icons=true&locale=en&layout=compact" alt="kabirsingh04" /></p>
+<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsingh04&show_icons=true&locale=en&layout=compact" alt="kabirsingh04" /></p>
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirsingh04&show_icons=true&locale=en" alt="kabirsingh04" /></p>
+<br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirsingh04&show_icons=true&locale=en" alt="kabirsingh04" /></p><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh04&" alt="kabirsingh04" /></p>
-![myAvatar](https://user-images.githubusercontent.com/69685373/113927341-fad09280-980a-11eb-8a7c-6f95ff37e2e7.png)
+
