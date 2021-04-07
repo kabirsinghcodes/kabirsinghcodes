@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kabir Singh</h1>
 ![myAvatar](https://user-images.githubusercontent.com/69685373/113927388-0ae87200-980b-11eb-97e7-00ad33c7df97.png)
+![banner](https://user-images.githubusercontent.com/69685373/113927626-5bf86600-980b-11eb-95f3-7d4f0bc29c1b.png)
 
 <h3 align="center">A passionate Software developer from India</h3>
 
