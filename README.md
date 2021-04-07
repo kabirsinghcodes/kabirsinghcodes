@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Kabir Singh</h1>
-![myAvatar](https://user-images.githubusercontent.com/69685373/113927388-0ae87200-980b-11eb-97e7-00ad33c7df97.png)
-![banner](https://user-images.githubusercontent.com/69685373/113927626-5bf86600-980b-11eb-95f3-7d4f0bc29c1b.png)
+<h1 align="center">Hi 👋, I'm Kabir Singh <br><br> <img src="https://user-images.githubusercontent.com/69685373/113927388-0ae87200-980b-11eb-97e7-00ad33c7df97.png" width="80" height="80"></h1>
+
+
 
 <h3 align="center">A passionate Software developer from India</h3>
+
+<img src="https://user-images.githubusercontent.com/69685373/113927626-5bf86600-980b-11eb-95f3-7d4f0bc29c1b.png" align="center">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh04" /> </p>
 
@@ -52,6 +54,7 @@
 <p><a href="https://www.buymeacoffee.com/rubleen16"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rubleen16" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsingh04&show_icons=true&locale=en&layout=compact" alt="kabirsingh04" /></p>
+<br><br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirsingh04&show_icons=true&locale=en" alt="kabirsingh04" /></p>
 
