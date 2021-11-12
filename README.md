@@ -2,7 +2,7 @@
 
 
 
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">An Educator at Unacademy from India</h3>
 
 <img src="https://user-images.githubusercontent.com/69685373/113927626-5bf86600-980b-11eb-95f3-7d4f0bc29c1b.png" align="center">
 
