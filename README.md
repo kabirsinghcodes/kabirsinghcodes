@@ -6,9 +6,9 @@
 
 <img src="https://user-images.githubusercontent.com/69685373/113927626-5bf86600-980b-11eb-95f3-7d4f0bc29c1b.png" align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsingh04" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kabirsingh04&label=Profile%20views&color=0e75b6&style=flat" alt="kabirsinghcodes" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsingh04" alt="kabirsingh04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabirsinghcodes" alt="kabirsinghcodes" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kabirsi09929172" target="blank"><img src="https://img.shields.io/twitter/follow/kabirsi09929172?logo=twitter&style=for-the-badge" alt="kabirsi09929172" /></a> </p>
 
@@ -53,10 +53,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rubleen16"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rubleen16" /></a></p><br><br>
 
-<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsingh04&show_icons=true&locale=en&layout=compact" alt="kabirsingh04" /></p>
+<br><br><p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kabirsinghcodes&show_icons=true&locale=en&layout=compact" alt="kabirsingh04" /></p>
 <br><br>
 
-<br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirsingh04&show_icons=true&locale=en" alt="kabirsingh04" /></p><br><br>
+<br><br><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabirsinghcodes&show_icons=true&locale=en" alt="kabirsingh04" /></p><br><br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsingh04&" alt="kabirsingh04" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabirsinghcodes&" alt="kabirsingh04" /></p>
 
